@@ -1,0 +1,96 @@
+
+@media (min-width: 576px) { 
+    .slider{
+        width: 75%;
+    }
+    .slider img{
+        transition: 0.5s;
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        margin-top: 20px;
+    margin-left: 70px;
+    }
+ }
+
+@media (min-width: 768px) { 
+    .home i.fa-gear{
+        display: block;
+    }
+    .home h1{
+        width: 60%;
+        font-size: 70px;
+    }
+    .dott{
+        display: block;
+        }
+        
+        .aboutpspecial{
+            width: 70%;
+        }
+        .slider{
+            width: 60%;
+        }
+        .slider img{
+            transition: 0.5s;
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            margin-top: 20px;
+        margin-left: -15px;
+        }
+        .team img{
+            height: 400px;
+            object-fit: cover;
+        }
+        
+ }
+
+@media (min-width: 992px) { 
+    .home h1{
+        width: 50%;
+    }
+    
+    .slider{
+        width: 50%;
+    }
+   
+        .aboutpspecial{
+            width: 55%;
+        }
+        .slider img{
+            transition: 0.5s;
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            margin-top: 20px;
+        margin-left: -15px;
+        }
+   
+ }
+
+@media (min-width: 1200px) { 
+    .home h1{
+        width: 30%;
+    }
+    .home i{
+        display: inline-block;
+        font-size: 13px;
+        color: white;
+        transition: 0.3s;
+    }
+    .slider img{
+        transition: 0.5s;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        margin-top: 20px;
+    margin-left: -30px;
+    }
+  
+    
+ }
+
+@media (min-width: 1400px) { 
+    
+ }
